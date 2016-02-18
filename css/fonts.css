@@ -1,0 +1,17 @@
+@font-face{ 
+	font-family: 'Aleo';
+	src: url('../fonts/aleo/aleo-regular-webfont.eot');
+	src: url('../fonts/aleo/aleo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/aleo/aleo-regular-webfont.woff') format('woff'),
+	     url('../fonts/aleo/aleo-regular-webfont.ttf') format('truetype'),
+	     url('../fonts/aleo/aleo-regular-webfont.svg#webfont') format('svg');
+}
+
+@font-face{ 
+	font-family: 'Wcmanonegrabta';
+	src: url('../fonts/wcmanonegrabta/wcmanonegrabta-webfont.eot');
+	src: url('../fonts/wcmanonegrabta/wcmanonegrabta-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/wcmanonegrabta/wcmanonegrabta-webfont.woff') format('woff'),
+	     url('../fonts/wcmanonegrabta/wcmanonegrabta-webfont.ttf') format('truetype'),
+	     url('../fonts/wcmanonegrabta/wcmanonegrabta-webfont.svg#webfont') format('svg');
+}
