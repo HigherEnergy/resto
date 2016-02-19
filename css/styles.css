@@ -96,6 +96,7 @@ url(../img/heading-h2-line.png) no-repeat 78% 60%;
 }
 .the-menu-heading {
     text-align: center;
+    padding-top: 50px;
     padding-bottom: 70px;
     font: 2em 'Aleo';
 }
